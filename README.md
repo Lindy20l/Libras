@@ -1,2 +1,0 @@
-# Libras
-Tecnologia  de sinais
